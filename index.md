@@ -8,4 +8,4 @@ I can be reached:
 * [Email](mailto:tederell.boyer@usda.gov)
 
 ### Map of Atlanta, Ga
-<embed type="text/html" src="atl.html" width="600" height="600">
+<embed type="text/html" src="/img/atl.html" width="600" height="600">
