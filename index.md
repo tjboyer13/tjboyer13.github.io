@@ -6,3 +6,6 @@ Tederell J. Boyer, also known as “T.J.”, Im with the [Wildland Fire Manageme
 
 I can be reached:
 * [Email](mailto:tederell.boyer@usda.gov)
+
+### Map of Atlanta, Ga
+<embed type="text/html" src="atl.html" width="600" height="600">
