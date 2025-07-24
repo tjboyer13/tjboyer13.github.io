@@ -9,3 +9,6 @@ I can be reached:
 
 ### Map of Atlanta, Ga
 <embed type="text/html" src="/img/atl.html" width="600" height="600">
+
+### Annual Sum of Atlanta, Ga Precipitaion
+<embed type="text/html" src="/img/annualsumclimate_plot.html" width="600" height="600">
