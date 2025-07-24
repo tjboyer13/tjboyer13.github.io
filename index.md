@@ -7,6 +7,11 @@ Tederell J. Boyer, also known as “T.J.”, Im with the [Wildland Fire Manageme
 I can be reached:
 * [Email](mailto:tederell.boyer@usda.gov)
 
+Appliactions managed through WFMRDA:
+[Wildland Fire Decision Support System](https://wfdss.firenet.gov/help/Content/Home.htm)
+[Interagency Fuels Treatment Decision Support System](https://iftdss.firenet.gov/iftdss2/#/landing)
+[Fire Modeling Services Framework](https://fmsf2.firenet.gov/)
+
 ### Map of Atlanta, Ga
 <embed type="text/html" src="/img/atl.html" width="600" height="600">
 
