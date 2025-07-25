@@ -22,3 +22,7 @@ Applications managed through WFMRDA:
 * 2016 was a pivotal year for wildfires in the south due to drought conditions.
   
 <embed type="text/html" src="/img/annualsumclimate_plot.html" width="600" height="600">
+
+### Interactive Map of NDVI Difference for Tubarjal Valley
+
+### Interactive Map of Vegetation Over Time in Tubarajal Valley
