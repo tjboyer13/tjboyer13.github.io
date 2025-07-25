@@ -24,5 +24,11 @@ Applications managed through WFMRDA:
 <embed type="text/html" src="/img/annualsumclimate_plot.html" width="600" height="600">
 
 ### Interactive Map of NDVI Difference for Tubarjal Valley
+* This plot shows the change in NDVI spatially before the groundwater irrigation and after groundwater irrigation.
+  
+<embed type="text/html" src="/img/NDVI_Difference_Tubarjal_Valley.html" width="600" height="600">
 
 ### Interactive Map of Vegetation Over Time in Tubarajal Valley
+* This plot shows the number of vegetated pixels over time
+  
+<embed type="text/html" src="/img/Vegetation_over_time_in_Tubarjal_Valley.html" width="600" height="600">
