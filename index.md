@@ -12,8 +12,13 @@ Applications managed through WFMRDA:
 * [Interagency Fuels Treatment Decision Support System](https://iftdss.firenet.gov/iftdss2/#/landing)
 * [Fire Modeling Services Framework](https://fmsf2.firenet.gov/)
 
-### Map of Atlanta, Ga
+### Interactive Map of Atlanta, Ga
+* This map was created using Python liobraries and OpenStreetMAp data.
+  
 <embed type="text/html" src="/img/atl.html" width="600" height="600">
 
-### Annual Sum of Atlanta, Ga Precipitaion
+### Interactive Map of The Annual Sum of Atlanta, Ga Precipitaion
+* This map was created to showcase NOAA NCEI climate data workflow for Atlanta, Ga.
+* 2016 was a pivotal year for wildfires in the south due to drought conditions.
+  
 <embed type="text/html" src="/img/annualsumclimate_plot.html" width="600" height="600">
