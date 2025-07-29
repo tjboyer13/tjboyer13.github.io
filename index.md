@@ -23,10 +23,10 @@ Applications managed through WFMRDA:
   
 <embed type="text/html" src="/img/annualsumclimate_plot.html" width="600" height="600">
 
-### Interactive Map of NDVI Difference for Tubarjal Valley
-* This plot shows the change in NDVI spatially before the groundwater irrigation and after groundwater irrigation.
+### Interactive Map of NDVI Difference for Fannin County, Ga
+* This plot shows the change in NDVI spatially before drought/fire disturbance and after drought/fire disturbance.
   
-<embed type="text/html" src="/img/NDVI_Difference_Tubarjal_Valley.html" width="600" height="600">
+<embed type="text/html" src="/img/NDVI_Difference_Fannin_County.html" width="600" height="600">
 
 ### Interactive Map of Vegetation Over Time in Tubarajal Valley
 * This plot shows the number of vegetated pixels over time
