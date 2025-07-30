@@ -28,7 +28,8 @@ Applications managed through WFMRDA:
   
 <embed type="text/html" src="/img/NDVI_Difference_Fannin_County.html" width="600" height="600">
 
-### Interactive Map of Vegetation Over Time in Tubarajal Valley
-* This plot shows the number of vegetated pixels over time
+### Interactive Map of Vegetation Over Time in Fannin County, Ga
+* This plot shows the number of vegetated pixels over time from 2014 through 2018.
+* Noticibly 2016 shows a significance decrease primarliy due to drought conditions and fire disturbances. 
   
-<embed type="text/html" src="/img/Vegetation_over_time_in_Tubarjal_Valley.html" width="600" height="600">
+<embed type="text/html" src="/img/Vegetation_over_time_in_Fannin_County.html" width="600" height="600">
