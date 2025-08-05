@@ -21,11 +21,11 @@ Applications managed through WFMRDA:
   
 <embed type="text/html" src="/img/CHF.html" width="600" height="600">
 
-### Interactive Map of The Annual Sum of Atlanta, Ga Precipitaion
-* This map was created to showcase NOAA NCEI climate data workflow for Atlanta, Ga.
+### Interactive Map of The Annual Sum of Fannin County, Ga Precipitaion
+* This map was created to showcase NOAA NCEI climate data workflow for Fannin County, Ga.
 * 2016 was a pivotal year for wildfires in the south due to drought conditions.
   
-<embed type="text/html" src="/img/annualsumclimate_plot.html" width="600" height="600">
+<embed type="text/html" src="/img/annualfanninsumclimate_plot.html" width="600" height="600">
 
 ### Interactive Map of NDVI Difference for Fannin County, Ga
 * This plot shows the change in NDVI spatially before drought/fire disturbance and after drought/fire disturbance.
