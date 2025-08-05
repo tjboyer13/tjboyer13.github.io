@@ -16,10 +16,10 @@ Applications managed through WFMRDA:
 * [Interagency Fuels Treatment Decision Support System](https://iftdss.firenet.gov/iftdss2/#/landing)
 * [Fire Modeling Services Framework](https://fmsf2.firenet.gov/)
 
-### Interactive Map of Atlanta, Ga
+### Interactive Map of Chattahoochee-Oconee National Forest
 * This map was created using Python libraries and OpenStreetMAp data.
   
-<embed type="text/html" src="/img/atl.html" width="600" height="600">
+<embed type="text/html" src="/img/CHF.html" width="600" height="600">
 
 ### Interactive Map of The Annual Sum of Atlanta, Ga Precipitaion
 * This map was created to showcase NOAA NCEI climate data workflow for Atlanta, Ga.
