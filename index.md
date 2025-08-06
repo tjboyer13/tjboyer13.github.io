@@ -38,9 +38,9 @@ Applications managed through WFMRDA:
 <embed type="text/html" src="/img/NDVI_Difference_Fannin_County.html" width="600" height="600">
 
 ### Interactive Map of Vegetation Over Time in Fannin County, Ga
-* This plot shows the number of vegetated pixels over time from 2014 through 2018 to include landscape disturbance before and after major event in 2016.
+* This plot shows the number of vegetatation over time from 2014 through 2018 to include landscape disturbance before and after major event in 2016.
 * This interactive map includes the Chattahoochee–Oconee National Forest.
-* The graph shows a sharp decrease in vegetated pixels during 2016, reaching its lowest point around that year, directly correlating with the period of major wildfires in Fannin County, Georgia. These fires consumed significant acreage fueled by severe drought conditions.
-* Following the low point in 2016, there is a clear upward trend in vegetated pixels through late 2016 and into 2017, indicating a period of vegetation recovery after the fires.
+* The graph shows a sharp decrease in vegetation during 2016, reaching its lowest point around that year, directly correlating with the period of major wildfires in Fannin County, Georgia. These fires consumed significant acreage fueled by severe drought conditions.
+* Following the low point in 2016, there is a clear upward trend in vegetatation through late 2016 and into 2017, indicating a period of vegetation recovery after the fires.
   
 <embed type="text/html" src="/img/Vegetation_over_time_in_Fannin_County.html" width="600" height="600">
